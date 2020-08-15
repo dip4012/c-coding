@@ -1,2 +1,2 @@
 # c-coding
-Basic javaScript skills.
+Basic c coding skills.
